@@ -1,3 +1,14 @@
 
 Notes
 * led ring : In(vert) -> 22 | Vcc (orange) -> 5v | Cnd (jaune) -> Gnd
+
+https://www.adafruit.com/product/5405
+https://learn.adafruit.com/adafruit-qt-py-esp32-c3-wifi-dev-board/pinouts
+
+* Microphone
+-> Les micros I2S (rond, jaune) MEMS:inmp441
+https://invensense.tdk.com/wp-content/uploads/2015/02/INMP441.pdf
+https://invensense.tdk.com/wp-content/uploads/2015/02/Microphone-Array-Beamforming.pdf
+
+* I2S
+-> Arduino / basic https://github.com/atomic14/esp32-i2s-mic-test
