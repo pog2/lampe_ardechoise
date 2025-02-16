@@ -1,1 +1,3 @@
-Yolo
+
+Notes
+* led ring : In(vert) -> 22 | Vcc (orange) -> 5v | Cnd (jaune) -> Gnd
